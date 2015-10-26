@@ -1,1 +1,1 @@
-# https://github.com/gracinhaduarte/meusite.github.io
+# http://gracinhaduarte.github.io/meusite.github.io
